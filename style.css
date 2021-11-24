@@ -1,0 +1,31 @@
+div.intro h2 {
+    color: white;
+    font-family: 'Comforter', cursive;
+    text-align: center;
+    font-size: 500%;
+    text-align: center;
+    margin-top: 300px;
+    margin-bottom: 0;
+}
+
+div.intro h3 {
+    font-family: 'Comforter', cursive;
+    color: grey;
+    text-align: center;
+    font-size: 200%;
+    margin-bottom: 400px;
+    margin-top: 0;
+}
+
+body {
+    background-image: url(only-color.jpg);
+}
+
+nav h2 {
+    font-family: 'Comforter', cursive;
+    color: white;
+    margin-left: 5%;
+    margin-top: 1%;
+    font-size: 175%;
+}
+
