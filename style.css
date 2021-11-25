@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+}
+
 div.intro h2 {
     color: white;
     font-family: 'Comforter', cursive;
@@ -13,8 +17,13 @@ div.intro h3 {
     color: grey;
     text-align: center;
     font-size: 200%;
-    margin-bottom: 400px;
+    margin-bottom: 175px;
     margin-top: 0;
+}
+
+div.intro a {
+    margin-top: 0%;
+    margin-left: 48%;
 }
 
 body {
@@ -28,4 +37,12 @@ nav h2 {
     margin-top: 1%;
     font-size: 175%;
 }
+
+div.episodes {
+    box-sizing: content-box;
+    margin-left: 25%;
+    margin-right: 15%;
+    margin-top: 33.9%;
+}
+
 
