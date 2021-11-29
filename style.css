@@ -10,6 +10,7 @@ div.intro h2 {
     text-align: center;
     margin-top: 300px;
     margin-bottom: 0;
+    
 }
 
 div.intro h3 {
@@ -24,6 +25,13 @@ div.intro h3 {
 div.intro a {
     margin-top: 0%;
     margin-left: 48%;
+    font-size: x-large;
+    color: #384a54;
+    text-decoration: none;
+}
+
+div.intro a:hover {
+    color: white;
 }
 
 body {
@@ -38,11 +46,15 @@ nav h2 {
     font-size: 175%;
 }
 
+header nav h2 a {
+    color: white;
+    text-decoration: none;
+    
+}
+
 div.episodes {
     box-sizing: content-box;
     margin-left: 25%;
     margin-right: 15%;
     margin-top: 33.9%;
 }
-
-
