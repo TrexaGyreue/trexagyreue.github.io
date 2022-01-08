@@ -1,0 +1,105 @@
+html {
+    scroll-behavior: smooth;
+}
+
+header nav div.navigate {
+    float: right!important;
+    margin-top: 1.5%;
+    margin-left: 0%;
+    margin-right: 2%;
+    display: block;
+    padding-left: 10%;
+    text-decoration: none;
+}
+
+header nav div.navigate a.episodes {
+    text-decoration: none;
+    color: #607c8f;
+    font-family: 'Source Code Pro', monospace;
+    font-weight: 700;
+    font-style: italic;
+    font-size: 150%;
+}
+
+header nav div.navigate a.about_us {
+    text-decoration: none;
+    color: #607c8f;
+    font-family: 'Source Code Pro', monospace;
+    font-weight: 700;
+    font-style: italic;
+    font-size: 150%;
+    margin-right: 30px;
+}
+
+header nav div.navigate a.homepage {
+    text-decoration: none;
+    color: #607c8f;
+    font-family: 'Source Code Pro', monospace;
+    font-weight: 700;
+    font-style: italic;
+    font-size: 150%;
+    margin-right: 30px;
+}
+
+div.intro {
+    align-items: center;
+    vertical-align: middle;
+    padding-top: 200px;
+}
+
+div.intro h2 {
+    color: white;
+    font-family: 'Comforter', cursive;
+    text-align: center;
+    font-size: 500%;
+    margin: 0%;
+    padding-top: 189px;
+}
+
+div.intro h3 {
+    font-family: 'Comforter', cursive;
+    color: grey;
+    text-align: center;
+    font-size: 200%;
+    margin: 0%;
+    margin-bottom: 175px;
+}
+
+div.intro a {
+    margin-top: 0;
+    margin-left: 46.8%;
+    font-size: x-large;
+    color: #384a54;
+    text-decoration: none;
+}
+
+
+div.intro a:hover {
+    color: white;
+}
+
+body {
+    background-image: url(only-color.jpg);
+}
+
+nav h2 {
+    font-family: 'Comforter', cursive;
+    font-size: 175%;
+    float: left;
+    margin: 0%;
+    padding-left: 5%;
+    padding-top: 0.6%;
+}
+
+header nav h2 a {
+    color: white;
+    text-decoration: none;
+}
+
+div.latest-eps {
+    box-sizing: content-box;
+    margin-top: 35.2%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
