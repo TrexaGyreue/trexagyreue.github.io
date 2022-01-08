@@ -1,0 +1,66 @@
+body {
+    background-image: url(only-color.jpg);
+}
+
+header nav h2 {
+    font-family: 'Comforter', cursive;
+    font-size: 175%;
+    float: left;
+    margin: 0%;
+    padding-left: 5%;
+    padding-top: 0.6%;
+}
+
+header nav h2 a {
+    text-decoration: none;
+    color: white;
+}
+
+header nav div.navigate {
+    float: right!important;
+    margin-top: 1.5%;
+    margin-left: 0%;
+    margin-right: 2%;
+    display: block;
+    padding-left: 10%;
+    text-decoration: none;
+}
+
+header nav div.navigate a.episodes {
+    text-decoration: none;
+    color: #607c8f;
+    font-family: 'Source Code Pro', monospace;
+    font-weight: 700;
+    font-style: italic;
+    font-size: 150%;
+}
+
+header nav div.navigate a.about_us {
+    text-decoration: none;
+    color: #607c8f;
+    font-family: 'Source Code Pro', monospace;
+    font-weight: 700;
+    font-style: italic;
+    font-size: 150%;
+    margin-right: 30px;
+}
+
+header nav div.navigate a.homepage {
+    text-decoration: none;
+    color: #607c8f;
+    font-family: 'Source Code Pro', monospace;
+    font-weight: 700;
+    font-style: italic;
+    font-size: 150%;
+    margin-right: 30px;
+}
+
+div.intro h2 {
+    text-align: center;
+    font-family: 'Fuzzy Bubbles', cursive;
+    color: #404A4F;
+    padding-top: 12%;
+    font-size: 300%;
+    margin: 0%;
+    text-shadow: 3px 3px #418C9F;
+}
